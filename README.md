@@ -1,4 +1,4 @@
-La carpeta de Seguridad 4 es una carpeta para guardar un respaldo de una version de el proyecto primera parte la cual no es la entregada 
+La carpeta de Seguridad 4 es una carpeta para guardar un respaldo de una version del proyecto primera parte la cual no es la entregada 
 
 LAS CARPETAS RELEVANTES PARA LA MATERIA SON:
 
